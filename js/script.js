@@ -54,7 +54,13 @@ var avg;
 console.log(avg=(a+b+c+d+e)/5);*/
 
 //larger number//
-
+/*
 var a=35;
 var b=26;
-console.log(a>b);
+var c=29
+var large=Math.max(a, b, c)
+console.log(large);*/
+
+//positive or not//
+
+
