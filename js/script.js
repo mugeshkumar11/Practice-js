@@ -57,10 +57,24 @@ console.log(avg=(a+b+c+d+e)/5);*/
 /*
 var a=35;
 var b=26;
-var c=29
-var large=Math.max(a, b, c)
+var c=29;
+var large=Math.max(a, b, c);
 console.log(large);*/
 
 //positive or not//
+/*
+let a=10;
+if (a>=0){
+    console.log('positive');
+}
+else {
+    console.log('negative');
+}
+*/
+
+//
+
+
+
 
 
