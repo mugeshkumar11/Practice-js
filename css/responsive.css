@@ -1,0 +1,35 @@
+ /*media query*/
+/*apply from  mobile */
+@media screen and (min-width:0px){
+	body{
+		background-color:red;
+		font-size:20px;
+		
+	}
+   .container{
+	   width:435px;
+   }
+    
+}
+/*apply from  tablet */
+
+@media screen and (min-width:768px){
+	body{
+		background-color:blue;
+		font-size:30px;
+	}
+	.container{
+			width:748px;
+		}
+}
+/*apply from  laptop */
+@media screen and (min-width:1200px){
+	body{
+		background-color:yellow;
+		font-size:50px;
+	}
+     .container{
+			width:1170px;
+		}
+
+}
