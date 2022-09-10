@@ -72,7 +72,18 @@ else {
 }
 */
 
-//
+//check  number is greaterthan10//
+/*
+let a=10;
+let b=11;
+
+console.log(a<b);*/
+
+//number even or odd
+
+let a=10
+if (%7==0)
+
 
 
 
